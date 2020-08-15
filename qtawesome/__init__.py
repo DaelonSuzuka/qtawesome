@@ -54,6 +54,7 @@ def _instance():
              'materialdesignicons-webfont-charmap.json'),
             ('vsc', 'vscode-webfont.ttf', 'vscode-webfont-charmap.json'),
             ('tis', 'teensyicons-solid-webfont.ttf', 'teensyicons-solid-webfont-charmap.json'),
+            ('tio', 'teensyicons-outline-webfont.ttf', 'teensyicons-outline-webfont-charmap.json'),
         )
     return _resource['iconic']
 
