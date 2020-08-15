@@ -19,3 +19,6 @@ _templates/
 
 # OS X
 .DS_Store
+
+# virtual environment
+.venv
